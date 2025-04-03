@@ -3,3 +3,6 @@
 1. Instale as dependências:
 ```bash
 pip install -r requirements.txt
+```
+
+2. Abra
