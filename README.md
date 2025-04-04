@@ -5,4 +5,4 @@
 pip install -r requirements.txt
 ```
 
-2. Abra
+2. Abra (ou baixe o .exe apenas. ai não será necessário as dependencias sei lá)
